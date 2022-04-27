@@ -8,6 +8,7 @@ module.exports = {
         for ( var key in obj2 ) {
             obj1[ key ] = this.copiar( obj1, obj2[ key ] );
         } 
-    },
+    }
+	//Agregar filtros
 
 };
