@@ -1,6 +1,6 @@
 module.exports = {
 	obtenerDeducible: function(payload, parametro, callback) {
-
+		//Agregar detalle
 		let respuesta = [];
 		let obj = {}, copago, moneda, lines
 		switch (parametro.deducible) {
