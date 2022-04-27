@@ -1,0 +1,9 @@
+{
+  "author": "Pedro Infante Garcia",
+  "name": "lambdadeducible",
+  "description": "servicio lambda para calcular el Payload segun deducibles.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
